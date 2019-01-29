@@ -4,7 +4,7 @@
 <String style="color:red">windows系统版本 (可以略过，也可看下。)：</String>
 
 ```
-因为我这里是使用的虚拟机，也是刚刚因为这个Windows系统下的C++ SDK安装的，所以一切都要重新安装，顺便把各种环境也
+因为我这里是使用的虚拟机，所以一切都要重新安装，顺便把各种环境也
 奉献给大家作为参考。
 系统版本：windows10 Pro 64位
 下载链接:https://pan.baidu.com/s/1Tt10MYfjXMJtEzzxURaKyw  密码:5aka
